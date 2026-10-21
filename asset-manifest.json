@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TP8-LENG4/static/css/main.e6c13ad2.css",
+    "main.js": "/TP8-LENG4/static/js/main.60dd6b5c.js",
+    "index.html": "/TP8-LENG4/index.html",
+    "main.e6c13ad2.css.map": "/TP8-LENG4/static/css/main.e6c13ad2.css.map",
+    "main.60dd6b5c.js.map": "/TP8-LENG4/static/js/main.60dd6b5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.60dd6b5c.js"
+  ]
+}
